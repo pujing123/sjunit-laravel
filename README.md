@@ -1,4 +1,4 @@
-# shineyork/sjunit-laravel
+# pujing123/sjunit-laravel
 
 这里是对于框架的介绍
 
@@ -9,7 +9,7 @@ Laravel >= 5.1 & PHP > 7.1.3
 # 安装的方式
 
 ```yml
-composer require "shineyork/sjunit-laravel"
+composer require "pujing123/sjunit-laravel"
 ```
 
 # 配置方式
