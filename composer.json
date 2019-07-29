@@ -1,0 +1,24 @@
+{
+    "name": "shineyork\/sjunit-laravel",
+    "description": "A simplified version of the laravel framework unit test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ShineYork",
+            "email": "shineyork@sixstaredu.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ShineYork\\SJunitLaravel\\": "src"
+        }
+    },
+    "extra":{
+        "laravel":{
+            "providers":[
+                "ShineYork\\SJunitLaravel\\Providers\\SJunitServiceProvider"
+            ]
+        }
+    }
+}
